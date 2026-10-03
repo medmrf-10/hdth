@@ -553,5 +553,6 @@
   "يو",
   "يي"
  ],
- "gz_bytes": 951160
+ "gz_bytes": 951160,
+ "url_note": "Arabic shard filenames MUST be percent-encoded — raw non-ASCII URLs get 400"
 }
