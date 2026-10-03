@@ -1,0 +1,10 @@
+{
+ "contract": "word->[[cat,id]] postings over hadith MATN text only (distinguish from idx/ which covers text+sharh+locs)",
+ "norm": "same as idx/",
+ "shard": "first 2 normalized chars",
+ "shards": 638,
+ "n_words": 49281,
+ "records": 28565,
+ "gz_bytes": 2151612,
+ "url_note": "percent-encode Arabic shard filenames"
+}
